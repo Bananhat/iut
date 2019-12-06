@@ -12,7 +12,7 @@ public class EvaluateurNiveau {
 		}
 		return true;
 	}
-	
+	// t bo
 	private static boolean estDansBorne( int valeur , int min , int max ) {
 		return ( valeur >= min && valeur <= max );
 	}
